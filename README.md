@@ -1,98 +1,197 @@
-# Hi 👋, I'm Anmol Kumar
+# Anmol Kumar
 
-🎓 B.Tech Biotechnology student at **MNNIT Allahabad**  
-🎓 BS in **Data Science & Programming** from **IIT Madras**  
-💻 Passionate about **Backend Development, Full-Stack Web Development & DSA**
+Backend Engineer | Systems Builder | AI-Integrated Applications
 
----
+B.Tech Biotechnology — MNNIT Allahabad (CGPA: 8.99)  
+BS Data Science & Programming — IIT Madras (CGPA: 9.17)
 
-## 🚀 About Me
-
-- 🔭 Currently exploring **Backend & Full-Stack Development**
-- 🧠 Strong foundation in **DSA, DBMS, OOP**
-- 🛠️ Comfortable with **REST APIs, databases, and backend logic**
-- 📬 Reach me at: **anmolkumar875511@gmail.com**
+Email: [anmolkumar875511@gmail.com](mailto:anmolkumar875511@gmail.com)  
+LinkedIn: [https://linkedin.com/in/anmolkumar8755](https://linkedin.com/in/anmolkumar8755)  
+GitHub: [https://github.com/anmolkumar875511](https://github.com/anmolkumar875511)  
 
 ---
 
-## 🧰 Tech Stack
+## Engineering Profile
 
-### 💻 Languages
-- C++
-- Python
-- Java
-- JavaScript
-- HTML, CSS
-- Bash Script
+Backend-focused full-stack engineer building scalable, secure, AI-integrated systems.
 
-### ⚙️ Frameworks & Tools
-- Node.js, Express.js
-- Flask
-- Bootstrap, Jinja
-- TailwindCSS
-- Git & GitHub
-- Postman
-- Thunder Client
+**Strong in:**
 
-### 🗄️ Databases & Cloud
-- MongoDB Atlas
-- Postgres
-- SQLite3
+• Data Structures & Algorithms  
+• Backend Architecture  
+• Authentication & Security  
+• Database Design  
+• REST API Engineering  
+• LLM-based Application Integration  
 
----
+**Built production-grade systems involving:**
 
-## 📌 Projects
+• JWT + Refresh Token rotation  
+• Google OAuth integration  
+• Role-Based Access Control (RBAC)  
+• Resume parsing (rule-based + LLM)  
+• Semantic skill matching(category matching + LLM)  
+• AI roadmap generation engines  
+• Cron-based background jobs  
 
-### 🏥 Hospital Management System
-**Tech:** Flask, SQLAlchemy, SQLite3, HTML, CSS, Bootstrap  
-- Full-stack system for managing appointments, patients & admin workflows  
-- Designed database schema and backend logic  
-- Responsive UI using Bootstrap  
-
-### 🌍 The Caravan Chronicle
-**Tech:** Node.js, Express.js, MongoDB Atlas, Multer  
-- Travel grievance platform  
-- Implemented REST APIs & secure file uploads  
-- Cloud database integration  
-
-### 🧬 BioStoreX
-**Tech:** Node.js, Express.js, MongoDB Atlas, Multer
-- Worked on backend logic and API handling  
-- Used Postman for testing and validating APIs  
-- Focused on clean data flow and scalability  
+Focused on writing clean, modular, production-quality backend code.
 
 ---
 
-## 🧠 Core Subjects
+# Flagship Project
 
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
+## SkillBridge — AI Career Intelligence Platform
+
+Live: [https://skillbridge-chi.vercel.app](https://skillbridge-chi.vercel.app)  
+Backend API: [https://skillbridge-server-zeta.vercel.app](https://skillbridge-server-zeta.vercel.app)
+
+A full-stack MERN platform that:
+
+• Parses resumes using hybrid rule-based + LLM pipelines  
+• Matches users against real job opportunities  
+• Performs semantic skill-gap analysis  
+• Generates AI-powered learning roadmaps  
+
+### Backend Engineering Contributions
+
+**Designed modular backend architecture using:**
+
+Node.js | Express 5 | MongoDB + Mongoose 
+
+**Built complete authentication system:**
+
+• Access + Refresh token rotation  
+• HTTP-only secure cookies  
+• Google OAuth (Passport.js)  
+• Email OTP verification  
+• Role-based authorization middleware  
+
+**Engineered resume parsing pipeline:**
+
+1. PDF upload → text extraction
+2. Rule-based structured parsing
+3. LLM semantic parsing
+4. Merge engine for conflict resolution
+5. Skill normalization
+
+**Developed skill gap analysis engine:**
+
+• String + semantic matching  
+• Match percentage scoring  
+• Missing skill detection  
+• Persistent storage of reports  
+
+**Implemented AI roadmap generation system:**
+
+• Target-based roadmap generation  
+• Task tracking  
+• History persistence  
+
+**Designed Admin system:**
+
+• Role-protected routes  
+• Analytics endpoints  
+• User management & blacklisting  
+
+**Integrated:**
+
+• LLM APIs  
+• Nodemailer (OTP workflows)  
+• Multer (file handling)  
+• Cron jobs for automation  
+
+This project demonstrates real system design + backend engineering depth.  
+
+Repository:
+[https://github.com/anmolkumar875511/SkillBridge](https://github.com/anmolkumar875511/SkillBridge)  
 
 ---
 
-## 🏆 Achievements & Responsibilities
+# Additional Engineering Projects
 
-- 🥇 **Team Leader**, CodeSangam Hackathon (CC Club, MNNIT)
-- 📸 Media Team (Photography) – Green Club
-- 🎬 Media Team (Video Editing) – Jigyasa Club
+## Hospital Management System
 
----
+Tech: Flask, SQLite, Jinja, Flask-RESTful
 
-## 🌐 Coding Profiles
+• Designed relational schema  
+• Implemented RBAC (Admin / Doctor / Patient)  
+• Built appointment conflict prevention logic  
+• Automated DB initialization  
+• Analytics dashboard endpoints  
 
-- 🔗 [LeetCode](https://leetcode.com/u/anmolkumar875511/)
-- 🔗 [CodeChef](https://www.codechef.com/users/anmolkumar8755)
-- 🔗 [Codeforces](https://codeforces.com/profile/anmolkumar875511)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/anmolkumar8755/)
-- 🐙 [GitHub](https://github.com/anmolkumar875511)
+Repository:
+[https://github.com/24f2002298-coder/MAD1_24f2002298](https://github.com/24f2002298-coder/MAD1_24f2002298)
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+## Caravan Chronicle
 
+Travel grievance platform backend
+
+• REST API design  
+• Secure file upload system (Multer)  
+• MongoDB integration  
+
+Live:
+[https://cranaval-chronicle.vercel.app](https://cranaval-chronicle.vercel.app)
+
+---
+
+## BioStoreX
+
+Backend system for biological inventory
+
+• CRUD system design   
+• MongoDB integration  
+• Structured backend architecture  
+
+Repository:
+[https://github.com/anmolkumar875511/BioStoreX](https://github.com/anmolkumar875511/BioStoreX)
+
+---
+
+# Technical Stack
+
+**Languages:** C++ | Python | Java | JavaScript | SQL
+
+**Backend:** Node.js | Express | Flask
+
+**Frontend:** React | TailwindCSS | Bootstrap
+
+**Databases:** MongoDB | PostgreSQL | SQLite
+
+**Auth & Security:** JWT | OAuth | RBAC | Middleware Architecture
+
+**Concepts:** REST APIs | MVC | Clean Architecture | CRUD Systems | LLM Integration
+
+---
+
+# Programming & Academics
+
+CGPA 9.17 — IIT Madras (Data Science)  
+CGPA 8.99 — MNNIT Allahabad
+
+**Active on:**
+
+LeetCode | Codeforces | CodeChef | GeeksforGeeks
+
+**Strong foundation in:**
+
+Data Structures | Database Systems | Object Oriented Programming  
+
+---
+
+# Achievements
+
+**First Position** Dashboarding (Software), Genesis, Avishkar 2025  
+**Second Position** Palladin (Software), Genesis, Avishkar 2025  
+
+---
+
+# What I’m Currently Working On
+
+Advanced Backend Engineering  
+System Design Preparation  
+Scalable AI-Integrated Applications  
+Data Structures & Algorithms  
+Artificial Intelligence and Machine Learning
