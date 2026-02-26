@@ -195,3 +195,4 @@ System Design Preparation
 Scalable AI-Integrated Applications  
 Data Structures & Algorithms  
 Artificial Intelligence and Machine Learning
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolkumar875511&show_icons=true&theme=tokyonight)
