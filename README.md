@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&lines=Backend+Engineer;AI+Systems+Builder;IIT+Madras+Data+Science;MNNIT+Allahabad)
+
 # Anmol Kumar
 
 Backend Engineer | Systems Builder | AI-Integrated Applications
@@ -194,5 +196,8 @@ Advanced Backend Engineering
 System Design Preparation  
 Scalable AI-Integrated Applications  
 Data Structures & Algorithms  
-Artificial Intelligence and Machine Learning
-![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmolkumar875511&show_icons=true&theme=tokyonight)
+Artificial Intelligence and Machine Learning  
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=anmolkumar875511&theme=tokyonight)
