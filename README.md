@@ -60,18 +60,18 @@
 
 ---
 
-### [PlacementPortal](https://github.com/24f2002298-coder/MADII_24f2002298)
-> Centralized campus placement management system for students, recruiters, and admins
+### [PlacementPortal](https://github.com/anmolkumar875511/PlacementPortal)
+> Full-stack campus placement management system connecting students, companies, and placement cell
 
-- Architected multi-role backend (Student / Recruiter / Admin) with RBAC middleware and role-scoped API access
-- Building job posting, application tracking, and shortlisting pipelines with structured MongoDB schemas
-- Designing recruiter dashboard with analytics endpoints and automated student notification workflows
+- Architected tri-role backend (Student / Company / Admin) with **Flask-Security-Too** token auth, RBAC middleware, and role-scoped resource classes across 8 RESTful modules
+- Engineered **Celery + Redis** async job pipeline for daily drive reminders, monthly admin reports, and on-demand CSV export delivered via email
+- Implemented **Redis caching** on high-traffic endpoints (drives, departments, dashboard) with targeted cache invalidation on write operations
 
-`Node.js` `Express.js` `MongoDB` `React.js` `JWT` `Mongoose` `REST APIs`
+`Flask` `Flask-RESTful` `SQLAlchemy` `SQLite` `Vue.js 3` `Pinia` `Celery` `Redis` `Bootstrap 5`
 
 ---
 
-### [Hospital Management System](https://github.com/24f2002298-coder/MADI_24f2002298)
+### [Hospital Management System](https://github.com/anmolkumar875511/HospitalManagement)
 > RBAC-based system for admins, doctors, and patients
 
 - Designed relational schema, appointment conflict prevention logic, and analytics dashboard endpoints
@@ -85,7 +85,7 @@
 
 **Languages** — C++, JavaScript (ES6+), Python, Java, SQL
 
-**Frontend** — React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Recharts
+**Frontend** — React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Recharts, Vue.js
 
 **Backend** — Node.js, Express.js, Flask, REST APIs, JWT, OAuth 2.0, Passport.js
 
