@@ -1,203 +1,145 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFAA&lines=Backend+Engineer;AI+Systems+Builder;IIT+Madras+Data+Science;MNNIT+Allahabad)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Engineer;AI+Systems+Builder;Scalable+Backend+%26+LLM+Systems;IIT+Madras+%7C+MNNIT+Allahabad" 
+  alt="Typing SVG"/>
+  
+  <h1 align="center">Anmol Kumar</h1>
+  
+  <p align="center">
+    <b>Backend Engineer · AI-Integrated Systems · Full-Stack MERN</b><br/>
+    Building scalable, secure, production-grade applications
+  </p>
+  
+  <p align="center">
+    <a href="mailto:anmolkumar875511@gmail.com"><img src="https://img.shields.io/badge/Gmail-anmolkumar875511-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/anmolkumar8755"><img src="https://img.shields.io/badge/LinkedIn-anmolkumar8755-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/anmolkumar875511"><img src="https://img.shields.io/badge/GitHub-anmolkumar875511-181717?style=flat&logo=github&logoColor=white"/></a>
+  </p>
+</div>
 
-# Anmol Kumar
+## Education
 
-Backend Engineer | Systems Builder | AI-Integrated Applications
-
-B.Tech Biotechnology — MNNIT Allahabad (CGPA: 8.99)  
-BS Data Science & Programming — IIT Madras (CGPA: 9.17)
-
-Email: [anmolkumar875511@gmail.com](mailto:anmolkumar875511@gmail.com)  
-LinkedIn: [https://linkedin.com/in/anmolkumar8755](https://linkedin.com/in/anmolkumar8755)  
-GitHub: [https://github.com/anmolkumar875511](https://github.com/anmolkumar875511)  
-
----
-
-## Engineering Profile
-
-Backend-focused full-stack engineer building scalable, secure, AI-integrated systems.
-
-**Strong in:**
-
-• Data Structures & Algorithms  
-• Backend Architecture  
-• Authentication & Security  
-• Database Design  
-• REST API Engineering  
-• LLM-based Application Integration  
-
-**Built production-grade systems involving:**
-
-• JWT + Refresh Token rotation  
-• Google OAuth integration  
-• Role-Based Access Control (RBAC)  
-• Resume parsing (rule-based + LLM)  
-• Semantic skill matching(category matching + LLM)  
-• AI roadmap generation engines  
-• Cron-based background jobs  
-
-Focused on writing clean, modular, production-quality backend code.
+| Institution | Degree | CGPA | Year |
+|---|---|---|---|
+| **MNNIT Allahabad** | B.Tech — Biotechnology | 8.99 | Aug 2024 – Present |
+| **IIT Madras** | B.S. — Data Science & Applications | 8.99 | May 2024 – Present |
 
 ---
 
-# Flagship Project
+## Projects
 
-## SkillBridge — AI Career Intelligence Platform
+### [KaushalSetu AI](https://kaushal-setu-ai.vercel.app) · [GitHub](https://github.com/anmolkumar875511/KaushalSetuAI)
+> AI-powered full-stack career upskilling platform across 8 domains
 
-Live: [https://skillbridge-chi.vercel.app](https://skillbridge-chi.vercel.app)  
-Backend API: [https://skillbridge-server-zeta.vercel.app](https://skillbridge-server-zeta.vercel.app)
+- Engineered 10+ module production REST API — resume parsing, skill-gap analysis, AI roadmaps, and mock interview simulator with 0–10 automated scoring
+- Integrated **Google Gemini LLM** for prompt-engineered workflows: resume parsing, per-answer evaluation with strengths/improvements, and holistic career feedback
+- Implemented **JWT + Passport.js (OAuth 2.0)** auth with role-based authorization, **Cloudinary** media storage, and **Nodemailer** OTP workflows
+- Deployed on **Vercel** with optimized build pipelines for high availability
 
-A full-stack MERN platform that:
-
-• Parses resumes using hybrid rule-based + LLM pipelines  
-• Matches users against real job opportunities  
-• Performs semantic skill-gap analysis  
-• Generates AI-powered learning roadmaps  
-
-### Backend Engineering Contributions
-
-**Designed modular backend architecture using:**
-
-Node.js | Express 5 | MongoDB + Mongoose 
-
-**Built complete authentication system:**
-
-• Access + Refresh token rotation  
-• HTTP-only secure cookies  
-• Google OAuth (Passport.js)  
-• Email OTP verification  
-• Role-based authorization middleware  
-
-**Engineered resume parsing pipeline:**
-
-1. PDF upload → text extraction
-2. Rule-based structured parsing
-3. LLM semantic parsing
-4. Merge engine for conflict resolution
-5. Skill normalization
-
-**Developed skill gap analysis engine:**
-
-• String + semantic matching  
-• Match percentage scoring  
-• Missing skill detection  
-• Persistent storage of reports  
-
-**Implemented AI roadmap generation system:**
-
-• Target-based roadmap generation  
-• Task tracking  
-• History persistence  
-
-**Designed Admin system:**
-
-• Role-protected routes  
-• Analytics endpoints  
-• User management & blacklisting  
-
-**Integrated:**
-
-• LLM APIs  
-• Nodemailer (OTP workflows)  
-• Multer (file handling)  
-• Cron jobs for automation  
-
-This project demonstrates real system design + backend engineering depth.  
-
-Repository:
-[https://github.com/anmolkumar875511/SkillBridge](https://github.com/anmolkumar875511/SkillBridge)  
+`React.js v19` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT` `Passport.js` `Cloudinary` `Tailwind CSS` `Recharts` `Vercel`
 
 ---
 
-# Additional Engineering Projects
+### [SkillBridge](https://skillbridge-chi.vercel.app) · [GitHub](https://github.com/anmolkumar875511/SkillBridge)
+> AI career intelligence platform with hybrid resume parsing and real-job matching
 
-## Hospital Management System
+- Built 5-stage resume pipeline: PDF upload → rule-based parse → LLM semantic parse → merge engine → skill normalization
+- Engineered complete auth system: access + refresh token rotation, HTTP-only secure cookies, Google OAuth, email OTP, RBAC middleware
+- Designed admin panel with role-protected analytics endpoints, user management, blacklisting, and cron-based background automation
 
-Tech: Flask, SQLite, Jinja, Flask-RESTful
-
-• Designed relational schema  
-• Implemented RBAC (Admin / Doctor / Patient)  
-• Built appointment conflict prevention logic  
-• Automated DB initialization  
-• Analytics dashboard endpoints  
-
-Repository:
-[https://github.com/24f2002298-coder/MAD1_24f2002298](https://github.com/24f2002298-coder/MAD1_24f2002298)
+`Node.js` `Express 5` `MongoDB` `React.js` `JWT` `OAuth 2.0` `Multer` `LLM APIs` `Vercel`
 
 ---
 
-## Caravan Chronicle
+### [The Caravan Chronicle](https://cranaval-chronicle.vercel.app) · [GitHub](https://github.com/anmol20240007-collab/Cranaval_Chronicle)
+> Community travel grievance and engagement platform
 
-Travel grievance platform backend
+- Developed secure RESTful endpoints with modular Express.js routing and Multer for multipart file uploads
+- Implemented persistent cloud storage via MongoDB Atlas for community threads and grievance tracking
 
-• REST API design  
-• Secure file upload system (Multer)  
-• MongoDB integration  
-
-Live:
-[https://cranaval-chronicle.vercel.app](https://cranaval-chronicle.vercel.app)
+`HTML5` `CSS3` `JavaScript ES6+` `Node.js` `Express.js` `MongoDB Atlas` `Multer`
 
 ---
 
-## BioStoreX
+### [PlacementPortal](https://github.com/24f2002298-coder/MADII_24f2002298)
+> Centralized campus placement management system for students, recruiters, and admins
 
-Backend system for biological inventory
+- Architected multi-role backend (Student / Recruiter / Admin) with RBAC middleware and role-scoped API access
+- Building job posting, application tracking, and shortlisting pipelines with structured MongoDB schemas
+- Designing recruiter dashboard with analytics endpoints and automated student notification workflows
 
-• CRUD system design   
-• MongoDB integration  
-• Structured backend architecture  
-
-Repository:
-[https://github.com/anmolkumar875511/BioStoreX](https://github.com/anmolkumar875511/BioStoreX)
+`Node.js` `Express.js` `MongoDB` `React.js` `JWT` `Mongoose` `REST APIs`
 
 ---
 
-# Technical Stack
+### [Hospital Management System](https://github.com/24f2002298-coder/MADI_24f2002298)
+> RBAC-based system for admins, doctors, and patients
 
-**Languages:** C++ | Python | Java | JavaScript | SQL
+- Designed relational schema, appointment conflict prevention logic, and analytics dashboard endpoints
+- Implemented automated DB initialization and role-scoped access for three user tiers
 
-**Backend:** Node.js | Express | Flask
-
-**Frontend:** React | TailwindCSS | Bootstrap
-
-**Databases:** MongoDB | PostgreSQL | SQLite
-
-**Auth & Security:** JWT | OAuth | RBAC | Middleware Architecture
-
-**Concepts:** REST APIs | MVC | Clean Architecture | CRUD Systems | LLM Integration
+`Flask` `SQLite` `Jinja2` `Flask-RESTful` `RBAC`
 
 ---
 
-# Programming & Academics
+## 🛠 Technical Stack
 
-CGPA 9.17 — IIT Madras (Data Science)  
-CGPA 8.99 — MNNIT Allahabad
+**Languages** — C++, JavaScript (ES6+), Python, Java, SQL
 
-**Active on:**
+**Frontend** — React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Recharts
 
-LeetCode | Codeforces | CodeChef | GeeksforGeeks
+**Backend** — Node.js, Express.js, Flask, REST APIs, JWT, OAuth 2.0, Passport.js
 
-**Strong foundation in:**
+**AI / LLM** — Google Gemini API, LLM Integration, Prompt Engineering
 
-Data Structures | Database Systems | Object Oriented Programming  
+**Databases** — MongoDB, MongoDB Atlas, SQLite3, Mongoose ODM
 
----
+**Cloud & DevOps** — Vercel, Cloudinary, Git, GitHub, Linux, Postman
 
-# Achievements
-
-**First Position** Dashboarding (Software), Genesis, Avishkar 2025  
-**Second Position** Palladin (Software), Genesis, Avishkar 2025  
+**Core CS** — Object Oriented Programming, Database Management System
 
 ---
 
-# What I’m Currently Working On
+## Achievements
 
-Advanced Backend Engineering  
-System Design Preparation  
-Scalable AI-Integrated Applications  
-Data Structures & Algorithms  
-Artificial Intelligence and Machine Learning  
+- **Finalist — Top 35 Teams**, Sankalp Hackathon (National Level) · *Feb 2026*
+- **First Position** — Dashboarding (Software), Genesis, Avishkar · MNNIT Allahabad · *Nov 2025*
+- **Second Position** — Palladin (Software), Genesis, Avishkar · MNNIT Allahabad · *Nov 2025*
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anmolkumar875511&theme=tokyonight)
+## Positions of Responsibility
+
+- **Media Team (Video Editing)** — Jigyasa Club, MNNIT Allahabad · *Jul 2025 – Present*
+- **Media Team (Photography)** — Green Club, MNNIT Allahabad · *Jul 2024 – May 2025*
+
+---
+
+## Coding Profiles
+
+
+<p align="left">
+  <a href="https://leetcode.com/u/anmol_1186/"><img src="https://img.shields.io/badge/LeetCode-anmol__1186-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/anmolkumar875511"><img src="https://img.shields.io/badge/Codeforces-anmolkumar875511-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/anmolkumar87"><img src="https://img.shields.io/badge/CodeChef-anmolkumar87-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/anmolkumatmmu/"><img src="https://img.shields.io/badge/GeeksforGeeks-anmolkumatmmu-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anmolkumar875511&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anmolkumar875511&theme=tokyonight" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=anmolkumar875511&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anmolkumar875511&theme=tokyonight" width="95%"/>
+
+</div>
