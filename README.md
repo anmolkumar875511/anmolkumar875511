@@ -1,27 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3200&pause=1200&color=6FB7D6&center=true&vCenter=true&width=720&lines=Backend+Engineer;AI-Integrated+Systems;Full-Stack+MERN+Developer;IIT+Madras+%7C+MNNIT+Allahabad" alt="Typing SVG" />
-
 <br>
 
 # Anmol Kumar Shaharwal
 
-<sub>Backend-leaning full-stack engineer building scalable, AI-integrated, production-grade systems</sub>
-
-<br><br>
-
-<a href="mailto:anmolkumar875511@gmail.com"><img src="https://img.shields.io/badge/Email-anmolkumar875511-FF6B3D?style=flat-square&logo=gmail&logoColor=white&labelColor=11283F"/></a>
-<a href="https://linkedin.com/in/anmolkumar8755"><img src="https://img.shields.io/badge/LinkedIn-anmolkumar8755-6FB7D6?style=flat-square&logo=linkedin&logoColor=white&labelColor=11283F"/></a>
-<a href="https://github.com/anmolkumar875511"><img src="https://img.shields.io/badge/GitHub-anmolkumar875511-EDE8DC?style=flat-square&logo=github&logoColor=white&labelColor=11283F"/></a>
-<a href="https://anmol-kumar-shaharwal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-view_site-9FD68B?style=flat-square&logo=vercel&logoColor=white&labelColor=11283F"/></a>
+<sub>Backend-leaning full-stack engineer · AI-integrated, production-grade systems</sub>
 
 <br>
 
-<a href="#projects">Projects</a> ·
-<a href="#stack">Stack</a> ·
-<a href="#writing">Writing</a> ·
-<a href="#achievements">Achievements</a> ·
-<a href="#contact">Contact</a>
+```
+role        backend-leaning full-stack engineer
+focus       API architecture · database design · applied AI
+based       MNNIT Allahabad  ·  IIT Madras
+contact     anmolkumar875511@gmail.com
+```
+
+<br>
+
+<a href="mailto:anmolkumar875511@gmail.com"><img src="https://img.shields.io/badge/-Email-101B26?style=flat-square&logo=gmail&logoColor=E7E1D3"/></a>
+<a href="https://linkedin.com/in/anmolkumar8755"><img src="https://img.shields.io/badge/-LinkedIn-101B26?style=flat-square&logo=linkedin&logoColor=E7E1D3"/></a>
+<a href="https://github.com/anmolkumar875511"><img src="https://img.shields.io/badge/-GitHub-101B26?style=flat-square&logo=github&logoColor=E7E1D3"/></a>
+<a href="https://anmol-kumar-shaharwal.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-101B26?style=flat-square&logo=vercel&logoColor=E7E1D3"/></a>
+
+<br>
+
+<a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#writing">Writing</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#achievements">Achievements</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="#contact">Contact</a>
 
 </div>
 
@@ -29,7 +32,9 @@
 
 ## About
 
-I came into engineering through biology — currently reading for a **B.Tech in Biotechnology** at MNNIT Allahabad while simultaneously completing a **B.S. in Data Science & Applications** from IIT Madras. Most of my work lives at the intersection of **API architecture, database design, and applied AI** — wiring LLMs like Gemini and Claude into real products, with auth, schemas, and edge cases handled properly, not demoed around.
+I came into engineering through biology — currently reading for a **B.Tech in Biotechnology** at MNNIT Allahabad while completing a **B.S. in Data Science & Applications** from IIT Madras. Most of my work sits at the intersection of API architecture, database design, and applied AI — wiring LLMs like Gemini and Claude into real products, with auth, schemas, and edge cases handled properly, not demoed around.
+
+<br>
 
 <table>
 <tr>
@@ -37,14 +42,14 @@ I came into engineering through biology — currently reading for a **B.Tech in 
 
 **Motilal Nehru NIT, Allahabad**
 B.Tech, Biotechnology
-`Aug 2024 – Present` · CGPA 9.09
+`Aug 2024 – Present`&nbsp;·&nbsp;CGPA 9.09
 
 </td>
 <td width="50%" valign="top">
 
 **Indian Institute of Technology, Madras**
 B.S., Data Science & Applications
-`May 2024 – Present` · CGPA 8.99
+`May 2024 – Present`&nbsp;·&nbsp;Overall 8.99&nbsp;·&nbsp;Projects 8.00
 
 </td>
 </tr>
@@ -56,7 +61,7 @@ B.S., Data Science & Applications
 <a name="projects"></a>
 
 <details open>
-<summary><strong>Veyu</strong> — civic issue reporting platform <code>🚧 in progress</code></summary>
+<summary><strong>Veyu</strong>&nbsp;&nbsp;<code>live</code>&nbsp;&nbsp;—&nbsp;&nbsp;civic issue reporting platform</summary>
 <br>
 
 A full-stack MERN platform for reporting and tracking civic issues, built solo with a one-month build cycle at zero infrastructure cost. Geospatial complaint mapping, role-based access for citizens and officials, and Gemini Flash for automated triage — with three signature modules: **PulseGrid**, **SilentSignal**, and **FieldMesh**.
@@ -64,13 +69,49 @@ A full-stack MERN platform for reporting and tracking civic issues, built solo w
 - Geospatial complaint handling, routed by location rather than category alone
 - Role-based access control separating citizen, field, and admin permissions
 - Google Gemini Flash integrated for automated issue classification
+- Split client/server deployment on Vercel with Google OAuth
 
 `MongoDB` `Express.js` `React.js` `Node.js` `Gemini Flash` `Geospatial Queries`
+
+**[Client →](https://veyu-gamma.vercel.app)**&nbsp;&nbsp;·&nbsp;&nbsp;**[Server →](https://veyu-iecm.vercel.app)**
 
 </details>
 
 <details>
-<summary><strong>AgroAI</strong> — field force intelligence platform <code>🏆 Finalist, Syngenta Hackathon · IIT Madras</code></summary>
+<summary><strong>ML</strong>&nbsp;&nbsp;—&nbsp;&nbsp;machine learning implementations & competitions</summary>
+<br>
+
+A working collection of machine learning experiments, pipelines, and Kaggle-style competition entries, spanning classical ML and applied modeling.
+
+- Ensemble pipeline for a customer churn prediction competition
+- Pretrained EfficientNet encoder applied to hardware-parts semantic segmentation
+- Classical ML workflows: feature engineering, model selection, evaluation
+
+`Python` `scikit-learn` `Pandas` `NumPy` `EfficientNet` `Jupyter`
+
+**[GitHub →](https://github.com/anmolkumar875511/ML)**
+
+</details>
+
+<details>
+<summary><strong>DL</strong>&nbsp;&nbsp;—&nbsp;&nbsp;deep learning architectures from the ground up</summary>
+<br>
+
+Implementations and notes built while studying core deep learning architectures — theory paired with hands-on code rather than library calls alone.
+
+- RNN and LSTM implementations for sequence modeling
+- GAN implementations exploring generative modeling fundamentals
+- Transformer / self-attention mechanism built from first principles
+- Optimization strategy experiments across architectures
+
+`Python` `PyTorch` `TensorFlow` `NumPy` `Jupyter`
+
+**[GitHub →](https://github.com/anmolkumar875511/DL)**
+
+</details>
+
+<details>
+<summary><strong>AgroAI</strong>&nbsp;&nbsp;<code>finalist</code>&nbsp;&nbsp;—&nbsp;&nbsp;field force intelligence platform</summary>
 <br>
 
 Built with team **InfernoX** for the Syngenta Hackathon at IIT Madras' Paradox fest, named a **Finalist (Remarkable Accomplishment)**. An AI-guided platform helping agricultural field reps decide who to visit and why. I owned the backend — APIs, database architecture, and AI integration.
@@ -85,24 +126,24 @@ Built with team **InfernoX** for the Syngenta Hackathon at IIT Madras' Paradox f
 </details>
 
 <details>
-<summary><strong>KaushalSetu AI</strong> — AI career upskilling platform <code>🔗 Live</code></summary>
+<summary><strong>KaushalSetu AI</strong>&nbsp;&nbsp;<code>live</code>&nbsp;&nbsp;—&nbsp;&nbsp;AI career upskilling platform</summary>
 <br>
 
 An AI-powered full-stack career upskilling platform spanning 8 domains — resume parsing, skill-gap analysis, learning roadmaps, and a scored mock interview simulator.
 
-- Engineered a 10+ module production REST API: resume parsing, skill-gap analysis, AI roadmaps, mock interview simulator with 0–10 automated scoring
-- Integrated Google Gemini for prompt-engineered workflows — parsing, per-answer evaluation, holistic feedback
+- 10+ module production REST API: resume parsing, skill-gap analysis, AI roadmaps, mock interview simulator with 0–10 automated scoring
+- Google Gemini integrated for prompt-engineered workflows — parsing, per-answer evaluation, holistic feedback
 - JWT + Passport.js (OAuth 2.0) auth, Cloudinary media storage, Nodemailer OTP workflows
 - Deployed on Vercel with optimized build pipelines
 
 `React.js v19` `Node.js` `Express.js` `MongoDB` `Gemini API` `JWT` `Passport.js` `Cloudinary` `Vercel`
 
-**[Live →](https://kaushal-setu-ai.vercel.app)** · **[GitHub →](https://github.com/anmolkumar875511/KaushalSetuAI)**
+**[Live →](https://kaushal-setu-ai.vercel.app)**&nbsp;&nbsp;·&nbsp;&nbsp;**[GitHub →](https://github.com/anmolkumar875511/KaushalSetuAI)**
 
 </details>
 
 <details>
-<summary><strong>SkillBridge</strong> — AI career intelligence platform <code>🔗 Live</code></summary>
+<summary><strong>SkillBridge</strong>&nbsp;&nbsp;<code>live</code>&nbsp;&nbsp;—&nbsp;&nbsp;AI career intelligence platform</summary>
 <br>
 
 A career intelligence platform built around hybrid resume parsing — rule-based + LLM semantic parsing — and real job matching.
@@ -114,12 +155,12 @@ A career intelligence platform built around hybrid resume parsing — rule-based
 
 `Node.js` `Express 5` `MongoDB` `React.js` `JWT` `OAuth 2.0` `LLM APIs` `Vercel`
 
-**[Live →](https://skillbridge-chi.vercel.app)** · **[GitHub →](https://github.com/anmolkumar875511/SkillBridge)**
+**[Live →](https://skillbridge-chi.vercel.app)**&nbsp;&nbsp;·&nbsp;&nbsp;**[GitHub →](https://github.com/anmolkumar875511/SkillBridge)**
 
 </details>
 
 <details>
-<summary><strong>The Caravan Chronicle</strong> — travel grievance platform <code>🔗 Live</code></summary>
+<summary><strong>The Caravan Chronicle</strong>&nbsp;&nbsp;<code>live</code>&nbsp;&nbsp;—&nbsp;&nbsp;travel grievance platform</summary>
 <br>
 
 A community-driven platform where travelers report and discuss travel-related issues, built around secure RESTful services and cloud-native storage.
@@ -131,12 +172,12 @@ A community-driven platform where travelers report and discuss travel-related is
 
 `HTML5` `CSS3` `JavaScript ES6+` `Node.js` `Express.js` `MongoDB Atlas` `Multer`
 
-**[Live →](https://cranaval-chronicle.vercel.app)** · **[GitHub →](https://github.com/anmol20240007-collab/Cranaval_Chronicle)**
+**[Live →](https://cranaval-chronicle.vercel.app)**&nbsp;&nbsp;·&nbsp;&nbsp;**[GitHub →](https://github.com/anmol20240007-collab/Cranaval_Chronicle)**
 
 </details>
 
 <details>
-<summary><strong>PlacementPortal</strong> — campus placement management system</summary>
+<summary><strong>PlacementPortal</strong>&nbsp;&nbsp;—&nbsp;&nbsp;campus placement management system</summary>
 <br>
 
 A full-stack system connecting students, companies, and the placement cell, with three distinct role-based experiences.
@@ -152,7 +193,7 @@ A full-stack system connecting students, companies, and the placement cell, with
 </details>
 
 <details>
-<summary><strong>Hospital Management System</strong> — RBAC-based care coordination</summary>
+<summary><strong>Hospital Management System</strong>&nbsp;&nbsp;—&nbsp;&nbsp;RBAC-based care coordination</summary>
 <br>
 
 An RBAC-based system coordinating admins, doctors, and patients around appointments and records.
@@ -175,12 +216,13 @@ An RBAC-based system coordinating admins, doctors, and patients around appointme
 
 |  |  |
 |---|---|
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-11283F?style=flat-square&logo=cplusplus&logoColor=6FB7D6) ![JavaScript](https://img.shields.io/badge/-JavaScript-11283F?style=flat-square&logo=javascript&logoColor=F0DB4F) ![Python](https://img.shields.io/badge/-Python-11283F?style=flat-square&logo=python&logoColor=6FB7D6) ![Java](https://img.shields.io/badge/-Java-11283F?style=flat-square&logo=openjdk&logoColor=FF6B3D) ![SQL](https://img.shields.io/badge/-SQL-11283F?style=flat-square&logo=postgresql&logoColor=6FB7D6) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-11283F?style=flat-square&logo=react&logoColor=6FB7D6) ![Vue](https://img.shields.io/badge/-Vue.js-11283F?style=flat-square&logo=vuedotjs&logoColor=9FD68B) ![Tailwind](https://img.shields.io/badge/-Tailwind-11283F?style=flat-square&logo=tailwindcss&logoColor=6FB7D6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-11283F?style=flat-square&logo=bootstrap&logoColor=FF6B3D) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-11283F?style=flat-square&logo=nodedotjs&logoColor=9FD68B) ![Express](https://img.shields.io/badge/-Express-11283F?style=flat-square&logo=express&logoColor=EDE8DC) ![Flask](https://img.shields.io/badge/-Flask-11283F?style=flat-square&logo=flask&logoColor=EDE8DC) ![FastAPI](https://img.shields.io/badge/-FastAPI-11283F?style=flat-square&logo=fastapi&logoColor=6FB7D6) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-11283F?style=flat-square&logo=mongodb&logoColor=9FD68B) ![SQLite](https://img.shields.io/badge/-SQLite-11283F?style=flat-square&logo=sqlite&logoColor=6FB7D6) |
-| **AI / Integration** | ![Gemini](https://img.shields.io/badge/-Gemini_API-11283F?style=flat-square&logo=google&logoColor=6FB7D6) ![Claude](https://img.shields.io/badge/-Claude_API-11283F?style=flat-square&logo=anthropic&logoColor=FF6B3D) ![JWT](https://img.shields.io/badge/-JWT-11283F?style=flat-square&logo=jsonwebtokens&logoColor=EDE8DC) ![OAuth](https://img.shields.io/badge/-OAuth_2.0-11283F?style=flat-square&logo=auth0&logoColor=9FD68B) |
-| **Cloud & Tools** | ![Vercel](https://img.shields.io/badge/-Vercel-11283F?style=flat-square&logo=vercel&logoColor=EDE8DC) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-11283F?style=flat-square&logo=cloudinary&logoColor=6FB7D6) ![Git](https://img.shields.io/badge/-Git-11283F?style=flat-square&logo=git&logoColor=FF6B3D) ![Postman](https://img.shields.io/badge/-Postman-11283F?style=flat-square&logo=postman&logoColor=FF6B3D) ![Linux](https://img.shields.io/badge/-Linux-11283F?style=flat-square&logo=linux&logoColor=EDE8DC) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-101B26?style=flat-square&logo=cplusplus&logoColor=E7E1D3) ![JavaScript](https://img.shields.io/badge/-JavaScript-101B26?style=flat-square&logo=javascript&logoColor=E7E1D3) ![Python](https://img.shields.io/badge/-Python-101B26?style=flat-square&logo=python&logoColor=E7E1D3) ![Java](https://img.shields.io/badge/-Java-101B26?style=flat-square&logo=openjdk&logoColor=E7E1D3) ![SQL](https://img.shields.io/badge/-SQL-101B26?style=flat-square&logo=postgresql&logoColor=E7E1D3) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-101B26?style=flat-square&logo=react&logoColor=E7E1D3) ![Vue](https://img.shields.io/badge/-Vue.js-101B26?style=flat-square&logo=vuedotjs&logoColor=E7E1D3) ![Tailwind](https://img.shields.io/badge/-Tailwind-101B26?style=flat-square&logo=tailwindcss&logoColor=E7E1D3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-101B26?style=flat-square&logo=bootstrap&logoColor=E7E1D3) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-101B26?style=flat-square&logo=nodedotjs&logoColor=E7E1D3) ![Express](https://img.shields.io/badge/-Express-101B26?style=flat-square&logo=express&logoColor=E7E1D3) ![Flask](https://img.shields.io/badge/-Flask-101B26?style=flat-square&logo=flask&logoColor=E7E1D3) ![FastAPI](https://img.shields.io/badge/-FastAPI-101B26?style=flat-square&logo=fastapi&logoColor=E7E1D3) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-101B26?style=flat-square&logo=mongodb&logoColor=E7E1D3) ![SQLite](https://img.shields.io/badge/-SQLite-101B26?style=flat-square&logo=sqlite&logoColor=E7E1D3) |
+| **AI / Integration** | ![Gemini](https://img.shields.io/badge/-Gemini_API-101B26?style=flat-square&logo=google&logoColor=E7E1D3) ![Claude](https://img.shields.io/badge/-Claude_API-101B26?style=flat-square&logo=anthropic&logoColor=E7E1D3) ![JWT](https://img.shields.io/badge/-JWT-101B26?style=flat-square&logo=jsonwebtokens&logoColor=E7E1D3) ![OAuth](https://img.shields.io/badge/-OAuth_2.0-101B26?style=flat-square&logo=auth0&logoColor=E7E1D3) |
+| **Machine / Deep Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-101B26?style=flat-square&logo=pytorch&logoColor=E7E1D3) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-101B26?style=flat-square&logo=scikitlearn&logoColor=E7E1D3) ![Pandas](https://img.shields.io/badge/-Pandas-101B26?style=flat-square&logo=pandas&logoColor=E7E1D3) ![NumPy](https://img.shields.io/badge/-NumPy-101B26?style=flat-square&logo=numpy&logoColor=E7E1D3) ![Jupyter](https://img.shields.io/badge/-Jupyter-101B26?style=flat-square&logo=jupyter&logoColor=E7E1D3) |
+| **Cloud & Tools** | ![Vercel](https://img.shields.io/badge/-Vercel-101B26?style=flat-square&logo=vercel&logoColor=E7E1D3) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-101B26?style=flat-square&logo=cloudinary&logoColor=E7E1D3) ![Git](https://img.shields.io/badge/-Git-101B26?style=flat-square&logo=git&logoColor=E7E1D3) ![Postman](https://img.shields.io/badge/-Postman-101B26?style=flat-square&logo=postman&logoColor=E7E1D3) ![Linux](https://img.shields.io/badge/-Linux-101B26?style=flat-square&logo=linux&logoColor=E7E1D3) |
 
 <br>
 
@@ -204,12 +246,12 @@ Notes from building and learning — part documentation, part teaching myself by
 ## Achievements
 <a name="achievements"></a>
 
-| | |
-|---|---|
-| 🏆 **Finalist (Remarkable Accomplishment)** — Syngenta Hackathon, IIT Madras Paradox Fest | `AgroAI` · Jun 2026 |
-| 🏆 **Finalist, Top 35 Teams** — Sankalp Hackathon (National Level) | `KaushalSetu AI` · Feb 2026 |
-| 🥇 **1st Position** — Dashboarding (Software), Genesis, Avishkar, MNNIT Allahabad | Nov 2025 |
-| 🥈 **2nd Position** — Palladin (Software), Genesis, Avishkar, MNNIT Allahabad | Nov 2025 |
+| | | |
+|---|---|---|
+| Finalist — Remarkable Accomplishment | Syngenta Hackathon, IIT Madras Paradox Fest&nbsp;&nbsp;·&nbsp;&nbsp;`AgroAI` | Jun 2026 |
+| Finalist — Top 35 Teams | Sankalp Hackathon, National Level&nbsp;&nbsp;·&nbsp;&nbsp;`KaushalSetu AI` | Feb 2026 |
+| 1st Position | Dashboarding (Software), Genesis, Avishkar, MNNIT Allahabad | Nov 2025 |
+| 2nd Position | Palladin (Software), Genesis, Avishkar, MNNIT Allahabad | Nov 2025 |
 
 <details>
 <summary>Positions of Responsibility</summary>
@@ -226,19 +268,11 @@ Notes from building and learning — part documentation, part teaching myself by
 
 ## Coding Profiles
 
-<a href="https://leetcode.com/u/anmol_1186/"><img src="https://img.shields.io/badge/LeetCode-anmol__1186-FF6B3D?style=flat-square&logo=leetcode&logoColor=white&labelColor=11283F"/></a>
-<a href="https://codeforces.com/profile/anmolkumar875511"><img src="https://img.shields.io/badge/Codeforces-anmolkumar875511-6FB7D6?style=flat-square&logo=codeforces&logoColor=white&labelColor=11283F"/></a>
-<a href="https://www.codechef.com/users/anmolkumar87"><img src="https://img.shields.io/badge/CodeChef-anmolkumar87-9FD68B?style=flat-square&logo=codechef&logoColor=white&labelColor=11283F"/></a>
-<a href="https://www.geeksforgeeks.org/user/anmolkumatmmu/"><img src="https://img.shields.io/badge/GeeksforGeeks-anmolkumatmmu-EDE8DC?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=11283F"/></a>
+<a href="https://leetcode.com/u/anmol_1186/"><img src="https://img.shields.io/badge/-LeetCode-101B26?style=flat-square&logo=leetcode&logoColor=E7E1D3"/></a>
+<a href="https://codeforces.com/profile/anmolkumar875511"><img src="https://img.shields.io/badge/-Codeforces-101B26?style=flat-square&logo=codeforces&logoColor=E7E1D3"/></a>
+<a href="https://www.codechef.com/users/anmolkumar87"><img src="https://img.shields.io/badge/-CodeChef-101B26?style=flat-square&logo=codechef&logoColor=E7E1D3"/></a>
+<a href="https://www.geeksforgeeks.org/user/anmolkumatmmu/"><img src="https://img.shields.io/badge/-GeeksforGeeks-101B26?style=flat-square&logo=geeksforgeeks&logoColor=E7E1D3"/></a>
 
-<br><br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anmolkumar875511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2236&title_color=6FB7D6&icon_color=FF6B3D&text_color=EDE8DC" height="165"/>
-<img src="https://streak-stats.demolab.com?user=anmolkumar875511&theme=tokyonight&hide_border=true&background=0F2236&ring=FF6B3D&fire=FF6B3D&currStreakLabel=6FB7D6" height="165"/>
-
-</div>
 
 <br>
 
@@ -251,7 +285,7 @@ Notes from building and learning — part documentation, part teaching myself by
 
 <br><br>
 
-<a href="mailto:anmolkumar875511@gmail.com"><img src="https://img.shields.io/badge/Say_hello-anmolkumar875511@gmail.com-FF6B3D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=11283F"/></a>
+<a href="mailto:anmolkumar875511@gmail.com"><img src="https://img.shields.io/badge/Say_hello-anmolkumar875511@gmail.com-B98545?style=for-the-badge&logo=gmail&logoColor=101B26&labelColor=101B26"/></a>
 
 <br><br>
 
